@@ -14,3 +14,12 @@
 - XR Plugin Management, Version 4.2.1
 - OpenXR Plugin, Version 1.5.3
 - XR Interaction Toolkit, Version 2.0.4
+
+#### HTC VR setup
+
+[VIVE OpenXR PC VR Plugin](https://developer.vive.com/resources/openxr/openxr-pcvr/tutorials/unity/installing-vive-openxr-pc-vr-plugin/) 
+- VIVE OpenXR Plugin - Windows, Version 1.0.8:
+  - Provides Hand Tracking and Scene Understanding
+
+### Animation
+- Animation Rigging, Version 1.1.1
