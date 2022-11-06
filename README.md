@@ -20,6 +20,8 @@
 [VIVE OpenXR PC VR Plugin](https://developer.vive.com/resources/openxr/openxr-pcvr/tutorials/unity/installing-vive-openxr-pc-vr-plugin/) 
 - VIVE OpenXR Plugin - Windows, Version 1.0.8:
   - Provides Hand Tracking and Scene Understanding
+- VIVE Input Utility, Version 1.17.0
+  - Provides support for Vive trackers
 
 ### Animation
 - Animation Rigging, Version 1.1.1
